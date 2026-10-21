@@ -1,0 +1,10 @@
+.venv/
+.test_packages/
+.analysis_packages/
+__pycache__/
+.garmin_tokens/
+*.xlsx
+*.session.json
+*.microbit.jsonl
+garmin_activity_*.fit
+*.tmp

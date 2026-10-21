@@ -1,0 +1,134 @@
+{
+  "generato_utc": "2026-10-21T09:31:41+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "librerie": {
+    "openpyxl": "3.1.5",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "fonti": [
+    {
+      "file": "misure_artificial_30.xlsx",
+      "sha256": "09e8230c1dd1e6fb00fa40c8b82c8007117432736c14d30dcef371535ff9eca9",
+      "categoria": "Artificiali 30 bpm",
+      "riferimento_nominale_bpm": 30.0,
+      "righe": 40,
+      "intervalli_osservati_s": [
+        10.0
+      ],
+      "impostazioni": {
+        "intervallo_secondi": "10.0",
+        "microbit": "D1:A4:17:99:81:14",
+        "microbit_uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+        "riscaldamento_secondi": "20",
+        "tolleranza_griglia_secondi": "1",
+        "timestamp_microbit": "Ricezione PC UTC; il firmware del gateway non invia un timestamp della misura",
+        "timestamp_garmin": "Originale nel file FIT dell'attivita'; da scaricare dopo la sincronizzazione",
+        "sincronizzazione": "Abbinamento temporale entro tolleranza; simultaneita' fisica non certificata",
+        "origine_garmin": "Non ancora scaricata",
+        "analisi_statistiche": "Nessuna",
+        "framing": "packet",
+        "stato_registrazione": "completata",
+        "inizio_utc": "2026-10-18T14:27:25.925+00:00"
+      },
+      "conteggio_stati_originali": {
+        "GARMIN_DA_SCARICARE": 39,
+        "MICROBIT_MANCANTE": 1
+      }
+    },
+    {
+      "file": "misure_artificial_150.xlsx",
+      "sha256": "ec5ffbd3e1f41c62b840e24e7bf9e3926740442efef0f60a608cd4783206e160",
+      "categoria": "Artificiali 150 bpm",
+      "riferimento_nominale_bpm": 150.0,
+      "righe": 33,
+      "intervalli_osservati_s": [
+        10.0
+      ],
+      "impostazioni": {
+        "intervallo_secondi": "10.0",
+        "microbit": "D1:A4:17:99:81:14",
+        "microbit_uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+        "riscaldamento_secondi": "20",
+        "tolleranza_griglia_secondi": "1",
+        "timestamp_microbit": "Ricezione PC UTC; il firmware del gateway non invia un timestamp della misura",
+        "timestamp_garmin": "Originale nel file FIT dell'attivita'; da scaricare dopo la sincronizzazione",
+        "sincronizzazione": "Abbinamento temporale entro tolleranza; simultaneita' fisica non certificata",
+        "origine_garmin": "Non ancora scaricata",
+        "analisi_statistiche": "Nessuna",
+        "framing": "packet",
+        "stato_registrazione": "interrotta dall'utente",
+        "inizio_utc": "2026-10-18T14:36:04.587+00:00"
+      },
+      "conteggio_stati_originali": {
+        "GARMIN_DA_SCARICARE": 28,
+        "MICROBIT_MANCANTE": 5
+      }
+    },
+    {
+      "file": "misure_pietro.xlsx",
+      "sha256": "ef6d29d1747b3f8b4b9f730e8a7fdfef7309b75cfcccd78cd66fd3789b6065c4",
+      "categoria": "Pietro",
+      "riferimento_nominale_bpm": null,
+      "righe": 40,
+      "intervalli_osservati_s": [
+        10.0
+      ],
+      "impostazioni": {
+        "intervallo_secondi": "10.0",
+        "microbit": "D1:A4:17:99:81:14",
+        "microbit_uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+        "riscaldamento_secondi": "20",
+        "tolleranza_griglia_secondi": "1",
+        "timestamp_microbit": "Ricezione PC UTC; il firmware del gateway non invia un timestamp della misura",
+        "timestamp_garmin": "Originale nel file FIT dell'attivita'; da scaricare dopo la sincronizzazione",
+        "sincronizzazione": "Abbinamento temporale entro tolleranza; simultaneita' fisica non certificata",
+        "origine_garmin": "Garmin Connect API (client non ufficiale), attivita' 24768857722",
+        "analisi_statistiche": "Nessuna",
+        "framing": "packet",
+        "stato_registrazione": "completata",
+        "inizio_utc": "2026-10-18T14:07:04.709+00:00",
+        "tolleranza_abbinamento_secondi": "1",
+        "correzione_orologio_garmin_secondi": "0",
+        "download_o_importazione_utc": "2026-10-18T14:19:02.525+00:00"
+      },
+      "conteggio_stati_originali": {
+        "ABBINATO_ENTRO_TOLLERANZA": 38,
+        "MICROBIT_MANCANTE": 2
+      }
+    },
+    {
+      "file": "misure_manfred.xlsx",
+      "sha256": "13f261316605a9cf15dbf261268df4db870ba170adc0d99e3f71827ed2e3400b",
+      "categoria": "Manfred",
+      "riferimento_nominale_bpm": null,
+      "righe": 40,
+      "intervalli_osservati_s": [
+        10.0
+      ],
+      "impostazioni": {
+        "intervallo_secondi": "10.0",
+        "microbit": "D1:A4:17:99:81:14",
+        "microbit_uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+        "riscaldamento_secondi": "20",
+        "tolleranza_griglia_secondi": "1",
+        "timestamp_microbit": "Ricezione PC UTC; il firmware del gateway non invia un timestamp della misura",
+        "timestamp_garmin": "Originale nel file FIT dell'attivita'; da scaricare dopo la sincronizzazione",
+        "sincronizzazione": "Abbinamento temporale entro tolleranza; simultaneita' fisica non certificata",
+        "origine_garmin": "Garmin Connect API (client non ufficiale), attivita' 24768618620",
+        "analisi_statistiche": "Nessuna",
+        "framing": "packet",
+        "stato_registrazione": "completata",
+        "inizio_utc": "2026-10-18T13:49:07.767+00:00",
+        "tolleranza_abbinamento_secondi": "1",
+        "correzione_orologio_garmin_secondi": "0",
+        "download_o_importazione_utc": "2026-10-18T13:59:07.466+00:00"
+      },
+      "conteggio_stati_originali": {
+        "ABBINATO_ENTRO_TOLLERANZA": 39,
+        "MICROBIT_MANCANTE": 1
+      }
+    }
+  ]
+}
